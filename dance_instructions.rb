@@ -4,5 +4,4 @@ def How_to_take_a_photo
   puts"focus your camera"
   puts "take the photo"
 end 
-
 How_to_take_a_photo
