@@ -1,6 +1,6 @@
 def dance_steps
-  puts""
-  puts""
+  puts"put your left food in"
+  puts"put your left food"
 end 
 
 dance_steps
