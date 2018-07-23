@@ -6,4 +6,4 @@ puts "take the photo"
 
 end 
 
-dance_steps
+How_to_take_a_photo
