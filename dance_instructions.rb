@@ -1,2 +1,6 @@
+def dance_steps
+  puts""
+  puts""
+end 
 
-# Code your methods below
+dance_steps
