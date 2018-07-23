@@ -1,6 +1,9 @@
 def How_to_take_a_photo
-  puts"put your left foot in"
-  puts""
+  puts"get a camera"
+  puts"turn on your camera"
+puts"focus your camera"
+puts "take the photo"
+
 end 
 
 dance_steps
