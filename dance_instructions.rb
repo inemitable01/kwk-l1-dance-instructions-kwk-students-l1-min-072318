@@ -1,6 +1,6 @@
-def dance_steps
-  puts"put your left food in"
-  puts"put your left food"
+def How_to_take_a_photo
+  puts"put your left foot in"
+  puts""
 end 
 
 dance_steps
